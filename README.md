@@ -19,4 +19,4 @@ Image Link
 [Image](https://6063b.github.io/homework/03/#pid=1)
 
 Image on repo:  
-[Reference Image](https://github.com/nikhilkhandelwal-DM-GY-6063-2024-Fall/HW03A/blob/main/Homework_WK03_A.jpg)
+![Reference Image](https://github.com/nikhilkhandelwal-DM-GY-6063-2024-Fall/HW03A/blob/main/Homework_WK03_A.jpg)
